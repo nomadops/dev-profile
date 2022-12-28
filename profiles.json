@@ -1,0 +1,69 @@
+{
+  "email": { "address": "noreply@nomadops.io" },
+  "blog": "https://myblog.com/" ,
+  "github": "cruftyoldsysadmin" ,
+  "gpg_keys": "https://keybase.io/cruftyoldsysadmin/pgp_keys.asc" ,
+  "keybase":  "https://keybase.io/cruftyoldsysadmin" ,
+  "linkedin":  "https://linkedin.com/in/cruftyoldsysadmin",
+  "podcast": "https://podcast.podcast/cruftyoldsysadmin",
+  "slack":  "https://nomadops.slack.com/",
+  "terraform_registy": "https://registry.terraform.io/users/nomadops" ,
+  "twitter": "nomadopsio",
+  "websites": [ { "url": "https://nomadops.io", "description": "nomadops.io" } ],
+  "youtube": "https://youtube.com/nomadops",
+  "github_repositories": [
+    {
+      "name": "nomadops/driftctl-slack",
+      "description": "Terraform module to provision driftctl."
+    }
+  ],
+  "headline": "Very Senior DevOps pipeline and Infrastructure as Code (IAC) consulting.",
+  "industries": [ "startups", "cloud" ],
+  "job_title": " Very Senior DevOps Engineer",
+  "keywords": [
+    "terraform",
+    "terragrunt",
+    "IAC",
+    "linux",
+    "docker",
+    "kubernetes",
+    "consulting",
+    "aws",
+    "devops",
+    "sre",
+    "cicd",
+    "github actions",
+    "jenkins",
+    "pulumi",
+    "golang"
+  ],
+  "long_summary": "I have been working with production infrastructure for about 25 years. My primary interests are implementing DevOps pipelines with Infrastructure as Code. I love working with AWS Terraform/Terragrunt, Kubernetes and Golang. ",
+  "name": "Cruftyold Sysadmin",
+  "profile_image": "https://avatars.githubusercontent.com/u/20204452?v=4",
+  "short_summary": "Infrastructure as code consulting.",
+  "languages": [
+    { "name": "English", "level": "native" }
+  ],
+  "skills": {
+    "bash": "expert",
+    "drumming": "mid-level",
+    "golang": "intermediate" ,
+    "python": "beginner" ,
+    "Terraform": "expert" ,
+    "Github Actions": "expert",
+    "Kubernetes": "senior",
+    "CICD": "intermediate",
+    "Pulumi": "beginner"
+  },
+  "citizenships": ["USA"],
+  "timezone": "UTC+3",
+  "certifications": [
+    {
+      "name": "AWS Certified SysOps Administrator - Associate",
+      "start_date": "2020-01-01",
+      "end_date": "2022-01-01",
+      "url": "https://cert.verifier/1234"
+    }
+  ],
+  "mailing_list": false
+}
